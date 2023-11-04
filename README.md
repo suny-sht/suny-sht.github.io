@@ -1,0 +1,1 @@
+This is the source code to Suny's public academic website: https://suny-sht.github.io/. The source code is adapted from the template created by [Jon Barron](https://github.com/jonbarron/website). 
